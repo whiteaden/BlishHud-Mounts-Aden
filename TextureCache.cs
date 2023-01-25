@@ -53,6 +53,9 @@ namespace Manlaan.Mounts
                 case "SolidText":
                     textureName += "-text.png";
                     break;
+                case "-splash.png";
+                    textureName += "-splash.png";
+                    break;
             }
 
             return textureName;
